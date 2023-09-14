@@ -1,1 +1,1 @@
-"# Amazon-__clone" 
+"# Amazon__clone" 
